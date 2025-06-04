@@ -12,7 +12,7 @@ Statik Alan: ToplamSaldiri adıyla tanımlanarak oyundaki toplam saldırı sayı
 
 Polimorfizm: Ulti metodu ile kullanıldı karakter sınıfna tanımlandı.
 
-Ayrıca dediğniz gibi düşmanlar, saldıma sistemi, seçim sistemi, ekrana mana can bilgisi yazdırma, düşman ölünce yeni düşman gelmesi, gibi sistemler sorunsuz çalışıyor
+Ayrıca dediğniz gibi düşmanlar, saldıma sistemi, seçim sistemi, ekrana mana can bilgisi yazdırma, düşman ölünce yeni düşman gelmesi,skor gibi sistemler sorunsuz çalışıyor
 
 akış şeması ve ekran çıktıları dosyada mevcut.
 
