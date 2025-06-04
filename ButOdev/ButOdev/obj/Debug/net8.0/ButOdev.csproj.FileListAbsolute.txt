@@ -1,0 +1,14 @@
+C:\Users\Furkan\Desktop\ButOdev\ButOdev\bin\Debug\net8.0\ButOdev.exe
+C:\Users\Furkan\Desktop\ButOdev\ButOdev\bin\Debug\net8.0\ButOdev.deps.json
+C:\Users\Furkan\Desktop\ButOdev\ButOdev\bin\Debug\net8.0\ButOdev.runtimeconfig.json
+C:\Users\Furkan\Desktop\ButOdev\ButOdev\bin\Debug\net8.0\ButOdev.dll
+C:\Users\Furkan\Desktop\ButOdev\ButOdev\bin\Debug\net8.0\ButOdev.pdb
+C:\Users\Furkan\Desktop\ButOdev\ButOdev\obj\Debug\net8.0\ButOdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\Desktop\ButOdev\ButOdev\obj\Debug\net8.0\ButOdev.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\ButOdev\ButOdev\obj\Debug\net8.0\ButOdev.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\ButOdev\ButOdev\obj\Debug\net8.0\ButOdev.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\ButOdev\ButOdev\obj\Debug\net8.0\ButOdev.dll
+C:\Users\Furkan\Desktop\ButOdev\ButOdev\obj\Debug\net8.0\refint\ButOdev.dll
+C:\Users\Furkan\Desktop\ButOdev\ButOdev\obj\Debug\net8.0\ButOdev.pdb
+C:\Users\Furkan\Desktop\ButOdev\ButOdev\obj\Debug\net8.0\ButOdev.genruntimeconfig.cache
+C:\Users\Furkan\Desktop\ButOdev\ButOdev\obj\Debug\net8.0\ref\ButOdev.dll
