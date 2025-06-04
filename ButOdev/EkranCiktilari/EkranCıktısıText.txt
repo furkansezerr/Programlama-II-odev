@@ -1,0 +1,20 @@
+ Başla
+   |
+Oyuncu oluştur
+   |
+İlk düşmanı oluştur
+   |
+While oyuncu yaşıyorsa:
+   |
+Karar: Ne yapacak?
+[Saldır] / [Ulti] / [Mana Yenile]
+   |
+Düşmana hasar ver
+   |
+Karar: Düşman öldü mü?
+ Evet  → Yeni düşman getir
+ Hayır → Devam et
+   |
+Karar: Oyuncu öldü mü?
+ Evet → Oyun Bitti
+ Hayır → Devam et
