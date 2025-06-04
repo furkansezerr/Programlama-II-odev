@@ -122,7 +122,6 @@ public class Ejderha : Dusman
             string oyuncuAdi = Console.ReadLine();
             Oyuncu oyuncu = new Oyuncu(oyuncuAdi);
             List<Dusman> dusmanListesi = new List<Dusman> { new Zombi(), new Goblin(), new Ejderha() };
-            Random rnd = new Random();
             int dusmanIndex = 0;
             int skor = 0; 
 
